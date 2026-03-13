@@ -1,2 +1,9 @@
 # Local large dataset archive (do not track)
 ePillID-benchmark-ePillID_data_v1.0.zip
+
+# Ignore old project folder after migration to THUOC-only repo content
+VAIPE/
+
+# Python cache artifacts
+__pycache__/
+*.py[cod]
